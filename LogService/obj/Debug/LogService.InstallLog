@@ -1,0 +1,120 @@
+﻿'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService hizmeti yükleniyor...
+Application günlüğünde MyLogService EventLog kaynağı oluşturuluyor...
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.Security.SecurityException: Kaynak bulunamadı; ancak olay günlüklerinin bazılarında veya hiçbirinde arama yapılamadı. Erişilemeyen günlükler: Security.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService hizmeti yükleniyor...
+MyLogService hizmeti başarıyla yüklendi.
+Application günlüğünde MyLogService EventLog kaynağı oluşturuluyor...
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService hizmeti yükleniyor...
+Application günlüğünde MyLogService EventLog kaynağı oluşturuluyor...
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService hizmeti yükleniyor...
+MyLogService hizmeti başarıyla yüklendi.
+Application günlüğünde MyLogService EventLog kaynağı oluşturuluyor...
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService hizmeti yükleniyor...
+Application günlüğünde MyLogService EventLog kaynağı oluşturuluyor...
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService hizmeti yükleniyor...
+Application günlüğünde MyLogService EventLog kaynağı oluşturuluyor...
+'C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.InstallLog
+   assemblypath = C:\Users\alpay\source\repos\SibersonLogApp\LogService\obj\Debug\LogService.exe
+MyLogService kaynağı için olay günlüğü önceki duruma döndürülüyor.
