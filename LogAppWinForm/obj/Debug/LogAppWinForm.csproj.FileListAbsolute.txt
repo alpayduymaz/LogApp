@@ -12,9 +12,9 @@ C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\bin\Debug\LogAppWinForm.exe.con
 C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\bin\Debug\LogAppWinForm.exe
 C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\bin\Debug\LogAppWinForm.pdb
 C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\obj\Debug\LogAppWinForm.csproj.AssemblyReference.cache
-C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\obj\Debug\LogAppWinForm.Form1.resources
 C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\obj\Debug\LogAppWinForm.Properties.Resources.resources
 C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\obj\Debug\LogAppWinForm.csproj.GenerateResource.cache
 C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\obj\Debug\LogAppWinForm.csproj.CoreCompileInputs.cache
 C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\obj\Debug\LogAppWinForm.exe
 C:\Users\alpay\Source\Repos\LogApp\LogAppWinForm\obj\Debug\LogAppWinForm.pdb
+C:\Users\alpay\source\repos\LogApp\LogAppWinForm\obj\Debug\LogAppWinForm.LogForm.resources

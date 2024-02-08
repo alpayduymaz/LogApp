@@ -16,7 +16,7 @@ namespace LogService
         {
 #if DEBUG
             //While debugging this section is used.
-            Service1 myService = new Service1();
+            Service myService = new Service();
             myService.onDebug();
             System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
 

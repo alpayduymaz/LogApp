@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace LogAppWinForm
 {
-    public partial class Form1 : Form
+    public partial class LogForm : Form
     {
-        public Form1()
+        public LogForm()
         {
             InitializeComponent();
         }

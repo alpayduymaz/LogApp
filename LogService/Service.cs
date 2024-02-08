@@ -12,12 +12,13 @@ using System.Timers;
 
 namespace LogService
 {
-    public partial class Service1 : ServiceBase
+    public partial class Service : ServiceBase
     {
-        public Service1()
+        public Service()
         {
             InitializeComponent();
         }
+
         public void onDebug()
         {
             OnStart(null);

@@ -1,7 +1,7 @@
 ﻿
 namespace LogAppWinForm
 {
-    partial class Form1
+    partial class LogForm
     {
         /// <summary>
         /// Required designer variable.
